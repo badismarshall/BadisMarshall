@@ -2,4 +2,4 @@
 
 I'am Badis from Algeria, i'm a Network and security engineer, i really enjoy learning languages and write code like C++ and python, as well as work in Deep Learning. I also enjoy wireframing, ui, ux,and desgin in general. You can check out my instagram https://www.instagram.com/badis_marshall/ .
 
-![alt text](https://github.com/[badismarshall]/[reponame]/blob/[branch]/pexels-mikhail-nilov-6963944.jpg?raw=true)
+![alt text](http://url/to/pexels-mikhail-nilov-6963944.jpg)
